@@ -19,9 +19,15 @@
         <input type="number" id="bill">
         <br><br>
         <label for="tip">Tip Percentage</label>
-
+        <select id="tip">
+            <option value="" disabled selected>Select Tip Percentage</option>
+            <option value="10">10%</option>
+            <option value="15">15%</option>
+            <option value="20">20%</option>
+            <option value="25">25%</option>
+        </select><br><br>
         
-        <input type="number" id="tip"><br>
+        
         <button id="calculate">Calculate</button><br>
         <label for="total">Total:</label>
         <span id="total"></span>
