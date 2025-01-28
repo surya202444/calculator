@@ -12,7 +12,8 @@ const tipInput=document.getElementById("tip")
     
 
  }
- function reset() {
+ function reset()
+  {
    billInput.value=""
    tip.value = ""
 
