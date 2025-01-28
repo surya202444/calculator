@@ -12,5 +12,11 @@ const tipInput=document.getElementById("tip")
     
 
  }
+ function reset() {
+   billInput.value=""
+   tip.value = ""
+
+   
+ }
 
  btnEl.addEventListener("click",calculateTotal)
