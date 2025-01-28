@@ -68,8 +68,9 @@ color: red; }
 
 
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:480px) {
     #home{
-        width: 470px;
+        width: 100%;
+        
     }
 }
