@@ -68,8 +68,8 @@ color: red; }
 
 
 
-@media (max-width:450px) {
+@media (max-width:470px) {
     #home{
-        width: 440px;
+        width: 470px;
     }
 }
