@@ -4,7 +4,9 @@
 body{
     background-color: rgb(173, 185, 185);
     font-family:Georgia, 'Times New Roman', Times, serif;
-    
+    background-image: url(https://img.freepik.com/premium-vector/pi-day-seamless-pattern-with-mathematical-constants-baked-pie-template-hand-drawn-illustration_2175-12164.jpg?semt=ais_hybrid);
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 .container{
@@ -15,6 +17,7 @@ body{
 padding: 60px;
 box-shadow: rgba(00, green, blue, alpha);    justify-content: center;
     align-items: center;
+    
 
 }
 h1{
